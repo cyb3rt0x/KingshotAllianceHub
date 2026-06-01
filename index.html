@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kingshot Alliance Hub</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="crest">♛</div>
+      <div>
+        <h1>Kingshot</h1>
+        <p>Alliance Hub</p>
+      </div>
+    </div>
+
+    <button class="mobile-close" onclick="toggleMenu()">×</button>
+
+    <nav id="menu"></nav>
+
+    <div class="language-box">
+      <label for="languageSelect">Language</label>
+      <select id="languageSelect" onchange="setLanguage(this.value)">
+        <option value="en">English</option>
+        <option value="pt">Português</option>
+        <option value="zh">中文</option>
+      </select>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <button class="hamburger" onclick="toggleMenu()">☰</button>
+      <div>
+        <h2 id="pageTitle">Kingshot Alliance Hub</h2>
+        <p id="pageSubtitle">Learn. Grow. Lead.</p>
+      </div>
+    </header>
+
+    <section class="search-area">
+      <input id="searchInput" type="search" placeholder="Search..." oninput="searchContent()" />
+      <div id="searchResults" class="search-results"></div>
+    </section>
+
+    <section id="content" class="content"></section>
+
+    <footer>
+      <p>Kingshot Alliance Hub · Version 1.0 · Last Updated: May 2026</p>
+      <p>Independent community project. Not affiliated with or endorsed by Kingshot developers.</p>
+    </footer>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
