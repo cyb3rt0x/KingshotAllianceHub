@@ -1,0 +1,58 @@
+{
+  "subtitle": "Aprenda. Cresça. Lidere.",
+  "noResults": "Nenhum resultado encontrado.",
+  "nav": {
+    "home": "Início",
+    "quickstart": "Guia Rápido",
+    "glossary": "Glossário",
+    "advanced": "Manual Avançado",
+    "academy": "Academia Kingshot",
+    "events": "Enciclopédia de Eventos",
+    "officer": "Manual de Oficiais",
+    "faq": "FAQ",
+    "templates": "Modelos da Aliança",
+    "roadmap": "Roadmap"
+  },
+  "sections": {
+    "home": {
+      "html": "<h2 class=\"section-title\">Bem-vindo ao Kingshot Alliance Hub</h2><div class=\"hero\"><h1>Kingshot Alliance Hub</h1><p class=\"motto\">Aprenda. Cresça. Lidere.</p><p>Sua base completa de conhecimento para jogadores, oficiais e líderes de alianças em Kingshot.</p></div><div class=\"grid\"><div class=\"card\"><h3>🚀 Guia para Novos Jogadores</h3><p>Aprenda os fundamentos e evite erros comuns.</p></div><div class=\"card\"><h3>📖 Glossário</h3><p>Entenda termos, siglas e mecânicas.</p></div><div class=\"card\"><h3>🎓 Academia</h3><p>Domine conceitos avançados e estratégias competitivas.</p></div><div class=\"card\"><h3>⚔️ Eventos</h3><p>Prepare-se para Bear Hunt, Mobilization, Sanctuary, Sunfire Castle e SvS.</p></div><div class=\"card\"><h3>👑 Manual de Oficiais</h3><p>Recursos para R4, R5 e líderes.</p></div><div class=\"card\"><h3>❓ FAQ</h3><p>Respostas para as dúvidas mais comuns.</p></div></div><div class=\"card\"><h3>Lema Oficial</h3><p>Jogadores fortes constroem poder.<br>Grandes alianças constroem reinos.<br>Alianças lendárias constroem comunidades.</p></div>",
+      "plain": "início bem-vindo guia academia"
+    },
+    "quickstart": {
+      "html": "<h2 class=\"section-title\">Guia Rápido</h2><div class=\"grid\"><div class=\"card\"><h3>Valores</h3><p>Atividade, trabalho em equipe, respeito e crescimento.</p></div><div class=\"card\"><h3>Expectativas</h3><p>Mantenha-se ativo, participe dos eventos, contribua para a Tecnologia da Aliança e apoie seus companheiros.</p></div><div class=\"card\"><h3>Tecnologia da Aliança</h3><p>Contribua sempre que possível. As contribuições coletivas fortalecem toda a aliança.</p></div><div class=\"card\"><h3>Prioridades de Crescimento</h3><p>Mantenha construção, pesquisa, treinamento de tropas, coleta e participação em eventos sempre ativos.</p></div><div class=\"card\"><h3>Promoções</h3><p>Conquistadas por atividade, consistência, participação, contribuições e trabalho em equipe.</p></div><div class=\"card\"><h3>Inatividade</h3><p>2 dias offline podem gerar aviso. Mais de 3 dias podem resultar em remoção, salvo aviso prévio à liderança.</p></div></div>",
+      "plain": "guia rápido atividade tecnologia crescimento promoção inatividade"
+    },
+    "glossary": {
+      "html": "<h2 class=\"section-title\">Glossário Kingshot</h2><div class=\"term\"><strong>Aliança</strong><p>Grupo de jogadores trabalhando juntos por objetivos comuns.</p></div><div class=\"term\"><strong>Tecnologia da Aliança</strong><p>Sistema onde membros contribuem recursos para liberar bônus coletivos.</p></div><div class=\"term\"><strong>Rally</strong><p>Ataque coordenado em grupo iniciado por um jogador.</p></div><div class=\"term\"><strong>Líder do Rally</strong><p>Jogador que inicia o rally.</p></div><div class=\"term\"><strong>Participante</strong><p>Jogador que entra no rally de outro membro.</p></div><div class=\"term\"><strong>Reforço</strong><p>Tropas enviadas para apoiar uma cidade ou estrutura.</p></div><div class=\"term\"><strong>Guarnição</strong><p>Tropas posicionadas para defesa.</p></div><div class=\"term\"><strong>Formação</strong><p>Composição de tropas usada em combate.</p></div><div class=\"term\"><strong>Marcha</strong><p>Exército enviado para uma missão.</p></div><div class=\"term\"><strong>Buff</strong><p>Bônus positivo que melhora desempenho.</p></div><div class=\"term\"><strong>Debuff</strong><p>Efeito negativo aplicado ao inimigo.</p></div><div class=\"term\"><strong>F2P</strong><p>Jogador gratuito.</p></div><div class=\"term\"><strong>P2W</strong><p>Jogador que investe dinheiro no jogo.</p></div><div class=\"term\"><strong>Aceleradores</strong><p>Itens que reduzem tempo de construção, pesquisa ou treinamento.</p></div><div class=\"term\"><strong>Gemas</strong><p>Moeda premium.</p></div><div class=\"term\"><strong>VIP</strong><p>Sistema progressivo de benefícios.</p></div><div class=\"term\"><strong>Poder</strong><p>Representação numérica da força da conta.</p></div><div class=\"term\"><strong>Bear Hunt</strong><p>Evento de aliança focado em maximizar dano por rallies.</p></div><div class=\"term\"><strong>Alliance Mobilization</strong><p>Evento de aliança baseado em missões.</p></div><div class=\"term\"><strong>Sanctuary</strong><p>Evento de controle territorial.</p></div><div class=\"term\"><strong>Sunfire Castle</strong><p>Evento principal de controle do reino.</p></div><div class=\"term\"><strong>SvS</strong><p>Estado contra Estado.</p></div><div class=\"term\"><strong>R4</strong><p>Oficial da Aliança.</p></div><div class=\"term\"><strong>R5</strong><p>Líder da Aliança.</p></div>",
+      "plain": "glossário rally f2p svs bear hunt r4 r5"
+    },
+    "advanced": {
+      "html": "<h2 class=\"section-title\">Manual Avançado</h2><div class=\"grid\"><div class=\"card\"><h3>Estratégia de Crescimento</h3><p>Guarde recursos e aceleradores para eventos importantes. Consistência supera crescimento explosivo.</p></div><div class=\"card\"><h3>Gestão de Recursos</h3><p>Use o princípio 70/20/10: 70% crescimento, 20% eventos, 10% reserva.</p></div><div class=\"card\"><h3>Heróis</h3><p>Concentre recursos em um grupo principal de heróis.</p></div><div class=\"card\"><h3>Rally</h3><p>Líderes usam melhores heróis e formações. Participantes entram rápido com boas tropas.</p></div><div class=\"card\"><h3>Bear Hunt</h3><p>Fique online cedo, cure tropas, prepare marchas e entre nos rallies imediatamente.</p></div><div class=\"card\"><h3>Liderança</h3><p>Bons líderes comunicam, recrutam, organizam eventos, resolvem conflitos e desenvolvem membros.</p></div></div>",
+      "plain": "manual avançado recursos heróis rally liderança"
+    },
+    "academy": {
+      "html": "<h2 class=\"section-title\">Academia Kingshot</h2><div class=\"grid\"><div class=\"card\"><h3>Caminho do Iniciante</h3><p>Primeiras 24 horas, primeiros 3 dias, primeira semana, construção, pesquisa, heróis, tropas e erros comuns.</p></div><div class=\"card\"><h3>Academia F2P</h3><p>Gestão de gemas, aceleradores, recursos e crescimento eficiente.</p></div><div class=\"card\"><h3>Academia de Rally</h3><p>Mecânicas de rally, líder, participantes, tropas e disciplina.</p></div><div class=\"card\"><h3>Academia Bear Hunt</h3><p>Preparação, líderes, participantes, erros comuns e coordenação.</p></div><div class=\"card\"><h3>Academia de Liderança</h3><p>Recrutamento, comunicação, eventos, conflitos, desenvolvimento e promoções.</p></div></div>",
+      "plain": "academia iniciante f2p rally bear hunt liderança"
+    },
+    "events": {
+      "html": "<h2 class=\"section-title\">Enciclopédia de Eventos</h2><div class=\"grid\"><div class=\"card\"><h3>Bear Hunt</h3><p>Maximize o dano da aliança com rallies coordenados e participação rápida.</p></div><div class=\"card\"><h3>Alliance Mobilization</h3><p>Complete missões alinhadas ao seu plano normal de evolução.</p></div><div class=\"card\"><h3>Sanctuary</h3><p>Capture e defenda estruturas estratégicas com coordenação.</p></div><div class=\"card\"><h3>Sunfire Castle</h3><p>Controle o castelo central. Organização supera poder bruto.</p></div><div class=\"card\"><h3>SvS</h3><p>Guarde aceleradores, recursos, gemas e teletransportes na preparação. Siga objetivos na guerra.</p></div></div>",
+      "plain": "eventos bear hunt mobilization sanctuary sunfire svs"
+    },
+    "officer": {
+      "html": "<h2 class=\"section-title\">Manual de Oficiais</h2><div class=\"grid\"><div class=\"card\"><h3>Comunicação</h3><p>Compartilhe informações com clareza e promova interação positiva.</p></div><div class=\"card\"><h3>Recrutamento</h3><p>Recrute jogadores ativos, confiáveis, cooperativos e com potencial de crescimento.</p></div><div class=\"card\"><h3>Monitoramento</h3><p>Acompanhe atividade, participação, contribuições e comunicação.</p></div><div class=\"card\"><h3>Promoções</h3><p>Avalie consistência, participação, contribuição e potencial de liderança.</p></div><div class=\"card\"><h3>Inatividade</h3><p>2 dias offline: aviso. 3+ dias: revisão. Ausência longa: remoção, salvo aviso prévio.</p></div><div class=\"card\"><h3>Código do Oficial</h3><p>Lidere pelo exemplo. Seja justo, consistente e respeitoso. Proteja a cultura da aliança.</p></div></div>",
+      "plain": "oficiais recrutamento promoções inatividade"
+    },
+    "faq": {
+      "html": "<h2 class=\"section-title\">Perguntas Frequentes</h2><div class=\"term\"><strong>O que construir primeiro?</strong><p>Priorize Quartel-General, edifícios de pesquisa e edifícios de treinamento.</p></div><div class=\"term\"><strong>Devo gastar gemas imediatamente?</strong><p>Não. Guarde gemas para melhorias de alto valor e progresso de longo prazo.</p></div><div class=\"term\"><strong>Poder é o mais importante?</strong><p>Não. Atividade, eficiência e participação em eventos muitas vezes importam mais.</p></div><div class=\"term\"><strong>Por que entrar em uma aliança ativa?</strong><p>Alianças ativas oferecem crescimento mais rápido, mais recompensas e acesso a eventos.</p></div><div class=\"term\"><strong>Como funcionam as promoções?</strong><p>São baseadas em atividade, participação, contribuição e confiabilidade.</p></div><div class=\"term\"><strong>Posso ser removido por inatividade?</strong><p>Sim. Longa inatividade sem aviso pode resultar em remoção.</p></div><div class=\"term\"><strong>Por que Tecnologia da Aliança importa?</strong><p>Ela beneficia todos os membros e melhora o desempenho da aliança.</p></div><div class=\"term\"><strong>Devo guardar aceleradores?</strong><p>Sim. Eles costumam valer mais durante grandes eventos.</p></div>",
+      "plain": "faq perguntas gemas poder aliança"
+    },
+    "templates": {
+      "html": "<h2 class=\"section-title\">Modelos da Aliança</h2><div class=\"term\"><strong>Mensagem de Boas-vindas</strong><p>Bem-vindo à aliança. Buscamos uma comunidade ativa, respeitosa e cooperativa. Revise o Guia Rápido e as regras.</p></div><div class=\"term\"><strong>Mensagem de Recrutamento</strong><p>Aliança ativa recrutando. Requisitos: atividade diária, participação em eventos e mentalidade de equipe.</p></div><div class=\"term\"><strong>Lembrete de Evento</strong><p>O evento começa em 30 minutos. Cure tropas, prepare marchas, confira formações e esteja online antes do início.</p></div><div class=\"term\"><strong>Anúncio de Promoção</strong><p>Parabéns. Sua atividade, contribuições e compromisso renderam uma promoção.</p></div><div class=\"term\"><strong>Aviso de Inatividade</strong><p>Identificamos inatividade recente. Avise a liderança se precisar de tempo ausente.</p></div>",
+      "plain": "modelos boas-vindas recrutamento promoção"
+    },
+    "roadmap": {
+      "html": "<h2 class=\"section-title\">Roadmap</h2><div class=\"grid\"><div class=\"card\"><h3>Concluído</h3><p>Guia Rápido, Glossário, Manual, Academia, Eventos, Manual de Oficiais, FAQ e Modelos.</p></div><div class=\"card\"><h3>Planejado v1.1</h3><p>Idiomas adicionais.</p></div><div class=\"card\"><h3>Planejado v1.2</h3><p>Academia de Heróis.</p></div><div class=\"card\"><h3>Planejado v1.3</h3><p>Estratégias avançadas de eventos.</p></div><div class=\"card\"><h3>Futuro v2.0</h3><p>Ferramentas interativas e contribuições da comunidade.</p></div></div>",
+      "plain": "roadmap versão planejado"
+    }
+  }
+}
